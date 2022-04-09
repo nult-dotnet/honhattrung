@@ -1,0 +1,15 @@
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\bin\Debug\net6.0\SingleResponsilbilityPrinciple.exe
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\bin\Debug\net6.0\SingleResponsilbilityPrinciple.deps.json
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\bin\Debug\net6.0\SingleResponsilbilityPrinciple.runtimeconfig.json
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\bin\Debug\net6.0\SingleResponsilbilityPrinciple.dll
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\bin\Debug\net6.0\SingleResponsilbilityPrinciple.pdb
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.AssemblyInfo.cs
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.dll
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\refint\SingleResponsilbilityPrinciple.dll
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.pdb
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\SingleResponsilbilityPrinciple.genruntimeconfig.cache
+C:\Users\hntrung\source\repos\SturdySOLID\SingleResponsilbilityPrinciple\obj\Debug\net6.0\ref\SingleResponsilbilityPrinciple.dll

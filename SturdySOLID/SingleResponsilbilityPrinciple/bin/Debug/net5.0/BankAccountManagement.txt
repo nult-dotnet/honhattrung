@@ -1,0 +1,6 @@
+Account: Account A
+Current balance: 1000000
+
+
+Account: Account B
+Current balance: 2000000
